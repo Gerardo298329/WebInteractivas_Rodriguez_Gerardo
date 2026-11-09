@@ -25,7 +25,7 @@ El proyecto está dentro del repositorio, en la ruta `Parcial2/pizzeria-ya_Comer
 
 ```bash
 git clone --no-checkout https://github.com/Gerardo298329/WebInteractivas_Rodriguez_Gerardo.git
-cd REPOSITORIO
+cd WebInteractivas_Rodriguez_Gerardo
 git sparse-checkout init --cone
 git sparse-checkout set Parcial2/pizzeria-ya_Comercial
 git checkout main
